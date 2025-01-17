@@ -60,5 +60,3 @@ curl --request POST \
 
 ```
 
-### stytch_session 获取方法
-![image|690x233](https://cdn.linux.do/uploads/default/original/3X/c/c/cc5bb06024b2fc93581227e16b5a5e3e220d159c.png)
